@@ -1,0 +1,41 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "id": 1
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "dateCompleted": "Mon Nov 14 2022",
+      "id": 2
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "broken toilet",
+      "address": "100 eternal dr",
+      "budget": "1000",
+      "neededBy": "2022-11-16",
+      "id": 3
+    }
+  ]
+}
